@@ -1,7 +1,9 @@
 # Astro
 
-Simplify the astrologian's operation.
-`https://raw.githubusercontent.com/aiczk/Astro/main/Astro/Astro.json`
+Updated [Astro](https://github.com/aiczk/Astro) plugin from [Aiczk] for .NET6 and Dalamud API 7 
+All credits go to him since this is only a compatibility update for patch 6.21.
+
+All the functionality and the code is the same as the original one for now.
 
 ## About
 Astro realizes the system by forcibly intervening in the action cue system.
