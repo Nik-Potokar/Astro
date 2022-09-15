@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "CREpUmYEhjlkiJ71HaDNyv4NR7YcM9t7KEGRmRzjrTS6jxJGGA0eJPqry4ccwqnnMunYLpQNG7Puu+WNwlZK/A==",
+  "success": true,
+  "projectFilePath": "X:\\Repos\\Astro-main\\Astro\\Astro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aki\\.nuget\\packages\\dalamudpackager\\2.1.8\\dalamudpackager.2.1.8.nupkg.sha512",
+    "C:\\Users\\Aki\\.nuget\\packages\\lumina\\3.10.0\\lumina.3.10.0.nupkg.sha512",
+    "C:\\Users\\Aki\\.nuget\\packages\\lumina.excel\\6.2.1\\lumina.excel.6.2.1.nupkg.sha512",
+    "C:\\Users\\Aki\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Aki\\.nuget\\packages\\system.reactive\\5.1.0-preview.207\\system.reactive.5.1.0-preview.207.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+X:\Repos\Astro-main\Astro\bin\Debug\Astro.json
+X:\Repos\Astro-main\Astro\bin\Debug\Astro.deps.json
+X:\Repos\Astro-main\Astro\bin\Debug\Astro.dll
+X:\Repos\Astro-main\Astro\bin\Debug\Astro.pdb
+X:\Repos\Astro-main\Astro\bin\Debug\FFXIVClientStructs.dll
+X:\Repos\Astro-main\Astro\bin\Debug\FFXIVClientStructs.pdb
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.csproj.AssemblyReference.cache
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.GeneratedMSBuildEditorConfig.editorconfig
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.AssemblyInfoInputs.cache
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.AssemblyInfo.cs
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.csproj.CoreCompileInputs.cache
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.csproj.CopyComplete
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.dll
+X:\Repos\Astro-main\Astro\obj\x64\Debug\Astro.pdb
+X:\Repos\Astro-main\Astro\bin\Debug\System.Reactive.dll
+X:\Repos\Astro-main\Astro\bin\Debug\System.Reactive.xml

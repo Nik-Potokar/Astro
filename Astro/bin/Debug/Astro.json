@@ -1,0 +1,16 @@
+{
+  "Author": "Aki",
+  "Name": "AstroReborn",
+  "InternalName": "Astro",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "/astro for all the options",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Astro",
+    "Sloth",
+    "Aki"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Make Astro Simple to play"
+}
