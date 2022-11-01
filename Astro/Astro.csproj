@@ -40,6 +40,12 @@
       <HintPath>$(AppData)\XIVLauncher\addon\Hooks\dev\ImGuiScene.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Lumina">
+      <HintPath>..\..\..\..\AppData\Roaming\XIVLauncher\addon\Hooks\dev\Lumina.dll</HintPath>
+    </Reference>
+    <Reference Include="Lumina.Excel">
+      <HintPath>..\..\..\..\AppData\Roaming\XIVLauncher\addon\Hooks\dev\Lumina.Excel.dll</HintPath>
+    </Reference>
     <Reference Include="System.Reactive">
       <HintPath>..\System.Reactive.dll</HintPath>
     </Reference>

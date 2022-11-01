@@ -210,24 +210,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Aki\\.nuget\\packages\\": {},
-    "D:\\VSCACHE\\NuGetPackages": {}
+    "C:\\Users\\Aki\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.0.1",
     "restore": {
-      "projectUniqueName": "X:\\Repos\\Astro-main\\Astro\\Astro.csproj",
+      "projectUniqueName": "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\Astro.csproj",
       "projectName": "Astro",
-      "projectPath": "X:\\Repos\\Astro-main\\Astro\\Astro.csproj",
+      "projectPath": "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\Astro.csproj",
       "packagesPath": "C:\\Users\\Aki\\.nuget\\packages\\",
-      "outputPath": "X:\\Repos\\Astro-main\\Astro\\obj\\",
+      "outputPath": "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\VSCACHE\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\Aki\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -292,7 +287,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

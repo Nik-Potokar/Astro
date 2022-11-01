@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CREpUmYEhjlkiJ71HaDNyv4NR7YcM9t7KEGRmRzjrTS6jxJGGA0eJPqry4ccwqnnMunYLpQNG7Puu+WNwlZK/A==",
+  "dgSpecHash": "ky2N9/3IeOSWVD54tNL8V2yVi+hhmjoH8rdicNGsrufh1RqiFy1zWhJFR3DRTqvn7pUFCLs5+HQtMkOQea0+/Q==",
   "success": true,
-  "projectFilePath": "X:\\Repos\\Astro-main\\Astro\\Astro.csproj",
+  "projectFilePath": "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\Astro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aki\\.nuget\\packages\\dalamudpackager\\2.1.8\\dalamudpackager.2.1.8.nupkg.sha512",
     "C:\\Users\\Aki\\.nuget\\packages\\lumina\\3.10.0\\lumina.3.10.0.nupkg.sha512",
