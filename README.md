@@ -2,6 +2,7 @@
 
 # Dalamud link:
 Waiting for 6.28 update verification!!!
+
 ```https://raw.githubusercontent.com/Nik-Potokar/Plogons/main/pluginmaster.json```
 
 # Info
