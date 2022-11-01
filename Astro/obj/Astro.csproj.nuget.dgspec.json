@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\Astro.csproj": {}
+    "C:\\Users\\Aki\\source\\repos\\Astro\\Astro\\Astro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\Astro.csproj": {
+    "C:\\Users\\Aki\\source\\repos\\Astro\\Astro\\Astro.csproj": {
       "version": "1.0.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\Astro.csproj",
+        "projectUniqueName": "C:\\Users\\Aki\\source\\repos\\Astro\\Astro\\Astro.csproj",
         "projectName": "Astro",
-        "projectPath": "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\Astro.csproj",
+        "projectPath": "C:\\Users\\Aki\\source\\repos\\Astro\\Astro\\Astro.csproj",
         "packagesPath": "C:\\Users\\Aki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aki\\Source\\Repos\\Astro\\Astro\\obj\\",
+        "outputPath": "C:\\Users\\Aki\\source\\repos\\Astro\\Astro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aki\\AppData\\Roaming\\NuGet\\NuGet.Config",
