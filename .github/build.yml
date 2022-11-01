@@ -44,7 +44,7 @@ jobs:
 
   deploy:
     needs: build
-    if: "contains(toJSON(github.event.commits.*.message), 'PlogonUpdate')"
+    if: "contains(toJSON(github.event.commits.*.message), '[PlogonUpdate]')"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
