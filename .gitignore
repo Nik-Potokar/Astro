@@ -1,0 +1,7 @@
+.vs/
+
+Astro/obj/
+
+Astro/bin/Debug/
+
+*.v2
