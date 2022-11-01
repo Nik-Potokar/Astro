@@ -1,9 +1,10 @@
 # Astro
 
-Dalamud link:
-```https://raw.githubusercontent.com/Nik-Potokar/Plogons/main/pluginmaster.json``` Waiting for 6.28 update verification 
+# Dalamud link:
+Waiting for 6.28 update verification!!!
+```https://raw.githubusercontent.com/Nik-Potokar/Plogons/main/pluginmaster.json```
 
-
+# Info
 **Updated [Astro](https://github.com/aiczk/Astro) plugin from [Aiczk] for .NET6 and Dalamud API 7 
 All credits go to him since this is only a compatibility update for patch 6.25.**
 
