@@ -1,8 +1,9 @@
 # Astro
 
 # Dalamud link:
-Updated for patch 6.28
+Updated for patch 6.28!
 
+Repo Link
 ```https://raw.githubusercontent.com/Nik-Potokar/Plogons/main/pluginmaster.json```
 
 # Info
