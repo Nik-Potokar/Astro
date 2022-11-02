@@ -1,7 +1,7 @@
 # Astro
 
 # Dalamud link:
-Waiting for 6.28 update verification!!!
+Updated for patch 6.28
 
 ```https://raw.githubusercontent.com/Nik-Potokar/Plogons/main/pluginmaster.json```
 
