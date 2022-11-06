@@ -7,7 +7,7 @@
     <Product>Astro</Product>
     <OutputPath>bin\$(Configuration)\</OutputPath>
     <AssemblyFileVersion>1.0.0.0</AssemblyFileVersion>
-    <Version>1.0.0.1</Version>
+    <Version>1.0.0.2</Version>
     <FileVersion>1.0.0.0</FileVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
